@@ -1,1 +1,2 @@
-# RID92251_Desafio01
+# Projeto-Landing-Page
+Este é o projeto de desenvolvimento do módulo base do curso de tecnologia da escola DNC.
